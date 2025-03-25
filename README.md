@@ -8,7 +8,7 @@ Berikut adalah Base Project untuk aplikasi Spring Boot, yang sesuai dengan konve
 ## Package Structure
 ```
 com
- +- astrapay
+ +- com.astrapay
      +- [ServiceName]Application.java
      +- [service name]
          +- batch
@@ -104,7 +104,7 @@ Internationalization files untuk berbagai macam messages yang ditampilkan di RES
 
 ## Package
 
-Nama package harus dimulai dengan **com.astrapay** lalu disusul dengan nama servicenya. Jika servicenya adalah payment maka nama paketnya menjadi **com.astrapay.payment**.
+Nama package harus dimulai dengan **com.com.astrapay** lalu disusul dengan nama servicenya. Jika servicenya adalah payment maka nama paketnya menjadi **com.com.astrapay.payment**.
 
 ## Application
 

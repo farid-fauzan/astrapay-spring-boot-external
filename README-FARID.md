@@ -92,12 +92,15 @@ Sebelum memulai, pastikan Anda memiliki alat-alat berikut terinstal di komputer 
 1. **Frontend**  
    ![img.png](img.png)
    ![img_4.png](img_4.png)
+   ![img_7.png](img_7.png)
 
 2. **Backend (Postman)**  
    ![img_1.png](img_1.png)
    ![img_2.png](img_2.png)
    ![img_3.png](img_3.png)
-3. **Unit Test**
+3. **Validasi Backend**
+   ![img_6.png](img_6.png)
+4. **Unit Test**
    ![img_5.png](img_5.png)
 
 ## Kontribusi
